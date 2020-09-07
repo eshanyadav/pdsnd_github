@@ -5,7 +5,7 @@ Bikeshare project created on 7/09/20. README file created on 7/09/20.
 
 ## Description ##
 This project explores data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
-It investigates and displays raw data, along with analysing for descriptive statistics like:
+It analyses and displays raw data, along with providing descriptive statistics like:
 
 * most common month
 * most common day of week
