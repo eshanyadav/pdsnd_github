@@ -1,11 +1,8 @@
-### Date created
-#### Date Created ####
-Bikeshare project created on 7/09/20. README file created on 7/09/20.
 
-### Project Title
+### Date Created ###
+Bikeshare project created on 7/09/20. README file created on 7/09/20.
 # Explore US Bikeshare Data #
 
-### Description
 ## Description ##
 This project explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 It investigates and displays raw data, along with analysing for descriptive statistics like:
@@ -22,7 +19,6 @@ It investigates and displays raw data, along with analysing for descriptive stat
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago
 
-### Files used
 ## Files Used and Software Requirements ##
 Python script:
 
@@ -38,7 +34,6 @@ Software required:
 
 * Python 3, NumPy, and pandas installed using Anaconda
 
-### Credits
 ## Credits ##
 Special thanks to:
 
