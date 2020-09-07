@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 #libraries/modules consisting of additional functions to make this script and my life easier
 """commit 1"""
+"""commit 2"""
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
