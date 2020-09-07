@@ -4,7 +4,7 @@ Bikeshare project created on 7/09/20. README file created on 7/09/20.
 # Explore US Bikeshare Data #
 
 ## Description ##
-This project explores data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+This project explores data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
 It investigates and displays raw data, along with analysing for descriptive statistics like:
 
 * most common month
@@ -37,5 +37,5 @@ Software required:
 ## Credits ##
 Special thanks to:
 
-* Udacity instructors who's lessons provided all I needed to complete this project
-* My mum and dad for maintaining my motivation through this arduous project
+* Udacity instructors who's lessons provided all I needed to complete this project.
+* My mum and dad for maintaining my motivation through this arduous project.
